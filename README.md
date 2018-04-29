@@ -19,7 +19,7 @@ I have a number of step-by-step screenshots and instructions to guide you throug
 
 Step 1:
 Launch your app, i.e. Prisma
-![Image](/website/1.png)
+![Image](/1.png)
 
 Step 2:
 Click on the little icon in the bottom left, this lets you select an image instead of taking a photo.

@@ -17,26 +17,32 @@ The general premise of what I'll be walking you through is running an Android Em
 
 I have a number of step-by-step screenshots and instructions to guide you through uploading, generating, and downloading your photos.
 
-Step 1:
+- Step 1:
 Launch your app, i.e. Prisma
+
 ![Image](/1.png)
 
-Step 2:
+-Step 2:
 Click on the little icon in the bottom left, this lets you select an image instead of taking a photo.
+
 ![Image](/2.png)
 
-Step 3:
+- Step 3:
 This will launch a poorly sized little window, click on the Import from Windows button and just pick any photo. You can upload things properly later, this is just a hack to get to the proper screen.
+
 ![Image](/4.png)
 
-Step 4:
+- Step 4:
 Now that you uploaded something, BlueStacks opens up your actual image gallery. This should be probalby sized and you can easily select uploading and downloading images.
+
 ![Image](/5.png)
 
-Step 5: 
+- Step 5: 
 Select an image. Notice that there is a little Prisma button you can hit to send it directly into the app.
+
 ![Image](/6.png)
 
-Step 6:
+- Step 6:
 Enjoy Prisma.
+
 ![Image](/7.png)
